@@ -1,41 +1,122 @@
-# 💫 About Me:
-💻 I'm currently coding.<br>🤝 I'm seeking collaboration.<br>🙏 I need tech guidance.<br>📚 I'm learning non-stop.<br>❓ Ask me tech stuff!<br>👨‍🍳 Fun fact: I cook! 🍳
+<h1 align="center">𝓗𝓲! 👋 𝓘'𝓶 Hema</h1>
 
+<div align="center">
+  <a href="https://github.com/zYxDevs">
+    <img src="https://img.anili.st/user/5393450" width="500"/>
+  </a>
+  <br>
+  <p>𝓝𝓸 𝓶𝓪𝓽𝓽𝓮𝓻 𝔀𝓱𝓸 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
+  <p>𝓣𝓱𝓮 𝓶𝓪𝓽𝓽𝓮𝓻 𝓲𝓼 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮</p>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ibrahim.Hany.17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrahim.17.i) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ibrahim.17.i) 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hema995&color=blue&style=flat&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/hema995?label=Followers" style="float:left, margin-right:10px" alt="Followers"/>
+</div>
 
+<br>
+<h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/shion_yozakura.gif" height="270" width="350" align="right">
+</div>
 
-<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+<br>
+<div align="left">
+  <li><b>Name: Ibrahim Hany</b></li>
+  <li><b>Residence: Isekai</b></li>
+  <li><b>Hobbys: Tech Stuff, Gaming</b></li>
+  <br><br>
+  <b>Follow me on:</b><br><br>
+  <a href="https://www.facebook.com/Hema.18i">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/174848.svg" alt="facebook" width="20" height="20"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hemi.18.i">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/174855.svg" alt="instagram" width="20" height="20">
+  </a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@ibrahim.18.i">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/tiktok.svg" alt="tiktok" width="20" height="20">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/AccountYoga">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/466963.png" alt="twitter" width="20" height="20"/>
+  </a>
+</div>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Ibrahim Spotify" width="75%" />](https://open.spotify.com/user/31lvqfmcdxuqfoe4krkeljnbnco4)
+<br>
+<h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮 📇</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/kurumi_daisuki.gif" align="right" height="250" width="400"/>
+</div>
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/)
+<div>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
+    <img src="https://img.shields.io/badge/oracle%20-%23323330.svg?&style=for-the-badge&logo=oracle"/>
+    <img src="https://img.shields.io/badge/vercel%20-%23323330.svg?&style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql"/>
+    <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb"/>
+    <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
+    <img src="https://img.shields.io/badge/ubuntu%20-%23323330.svg?&style=for-the-badge&logo=ubuntu"/>
+    <img src="https://img.shields.io/badge/android%20-%23323330.svg?&style=for-the-badge&logo=android"/><br><br>
+    𝓘 𝓷𝓮𝓿𝓮𝓻 𝓼𝓽𝓾𝓭𝓲𝓮𝓭 𝓯𝓸𝓻 𝓪 𝓹𝓪𝓻𝓽𝓲𝓬𝓾𝓵𝓪𝓻 𝓶𝓪𝓳𝓸𝓻, 𝓫𝓾𝓽 𝓘 𝓵𝓲𝓴𝓮 𝓬𝓻𝓮𝓪𝓽𝓲𝓷𝓰 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓲𝓷𝓰 𝓽𝓱𝓲𝓷𝓰𝓼.<br>
+    𝓣𝓱𝓮 𝓴𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓘 𝓱𝓪𝓿𝓮 𝓲𝓼 𝓷𝓸𝓽 𝓶𝓾𝓬𝓱, 𝓪𝓽 𝓵𝓮𝓪𝓼𝓽 𝓮𝓷𝓸𝓾𝓰𝓱 𝓽𝓸 𝓬𝓻𝓮𝓪𝓽𝓮 𝓪 𝓯𝓮𝔀 𝓽𝓱𝓲𝓷𝓰𝓼.<br>
+    𝓘 𝓳𝓾𝓼𝓽 𝓱𝓸𝓹𝓮 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽 𝔀𝓲𝓵𝓵 𝓾𝓼𝓮𝓯𝓾𝓵 𝓯𝓸𝓻 𝓮𝓿𝓮𝓻𝔂𝓸𝓷𝓮.
+  </p>
+</div>
 
+<br>
+<h2 align="center">📝 𝓐𝓷𝓲𝓛𝓲𝓼𝓽 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 📝</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/gojou_satoru.gif" align="right" width="340" height="280"/>
+</div>
 
+<br>
+<div align="left">
+  <!-- ANILIST_ACTIVITY:start -->
 
+- 📺 Completed <a href='https://anilist.co/anime/146625'>Engage Kiss</a> (22:47 22/10/2024)<br>
+- 📺 Completed <a href='https://anilist.co/anime/104937'>Lapis Re:LiGHTs</a> (02:39 07/10/2024)<br>
+- 📺 Plans to watch <a href='https://anilist.co/anime/171513'>Risou no Himo Seikatsu</a> (21:57 01/10/2024)<br>
+- 📺 Plans to watch <a href='https://anilist.co/anime/154473'>Arifureta: From Commonplace to World's Strongest Season 3</a> (20:58 10/09/2024)<br>
+- 📺 Plans to watch <a href='https://anilist.co/anime/152677'>Tantei wa mou, Shindeiru. Season 2</a> (19:56 02/09/2024)<br>
+- 📺 Plans to watch <a href='https://anilist.co/anime/179878'>COLORFUL STAGE! The Movie: A Miku Who Can't Sing</a> (17:01 13/08/2024)<br>
+- 📖 Plans to read <a href='https://anilist.co/manga/118377'>Vanilla: Jingai x Jingai Yuri Anthology</a> (22:31 01/08/2024)<br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hema995&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hema995&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hema995&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- ANILIST_ACTIVITY:end -->
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hema995&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+<br>
+<h2 align="center">☎️ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ☎️</h2>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/holo_angy.gif" align="left" width="400" height="220"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<br>
+<p align="center">
+  𝓨𝓸𝓾 𝓬𝓪𝓷 𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 𝓯𝓻𝓸𝓶 𝓽𝓱𝓲𝓼 𝓵𝓲𝓼𝓽𝓮𝓭 𝓪𝓬𝓬𝓸𝓾𝓷𝓽.<br>
+  𝓘𝓯 𝔂𝓸𝓾 𝔀𝓪𝓷𝓽 𝓱𝓲𝓻𝓮 𝓶𝓮 𝓯𝓸𝓻 𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽, 𝓹𝓵𝓮𝓪𝓼𝓮 𝓷𝓸𝓽𝓮 𝓽𝓱𝓪𝓽 𝓘'𝓶 𝓼𝓽𝓲𝓵𝓵 𝓷𝓮𝔀𝓫𝓲𝓮 𝓪𝓽 𝓬𝓸𝓭𝓲𝓷𝓰.<br>
+  𝓓𝓸 𝓷𝓸𝓽 𝓼𝓹𝓪𝓶 𝓪𝓷𝓭 𝓼𝓽𝓻𝓪𝓲𝓰𝓱𝓽 𝓽𝓸 𝓽𝓱𝓮 𝓹𝓸𝓲𝓷𝓽.
+</p>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<div align="right">
+  <a href="https://t.me/Yoga_CIC">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/Telegram_logo.svg" alt="telegram" width="49" height="49"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zyxdevs">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/linkedin.svg" alt="linkedin" width="51" height="51"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/659718688219332639">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="50.7" height="50.7" alt="discord"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:yoga@isekai.eu.org">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/><br>
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=hema995&icon=5&color=4)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ibrahim17) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+<h2 align="center">👋 またね 👋</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/hi_goodbye.gif"/>
+</div>
