@@ -36,7 +36,7 @@
   <a href="https://tiktok.com/@ibrahim.18.i">
     <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/tiktok.svg" alt="tiktok" width="20" height="20">
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/AccountYoga">
+  <a href="https://twitter.com/hema18i">
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/466963.png" alt="twitter" width="20" height="20"/>
   </a>
 </div>
@@ -59,6 +59,7 @@
     <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb"/>
     <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
     <img src="https://img.shields.io/badge/ubuntu%20-%23323330.svg?&style=for-the-badge&logo=ubuntu"/>
+    <img src="https://img.shields.io/badge/Full%20Stack%20-8A2BE2"/>
     <img src="https://img.shields.io/badge/android%20-%23323330.svg?&style=for-the-badge&logo=android"/><br><br>
     𝓘 𝓷𝓮𝓿𝓮𝓻 𝓼𝓽𝓾𝓭𝓲𝓮𝓭 𝓯𝓸𝓻 𝓪 𝓹𝓪𝓻𝓽𝓲𝓬𝓾𝓵𝓪𝓻 𝓶𝓪𝓳𝓸𝓻, 𝓫𝓾𝓽 𝓘 𝓵𝓲𝓴𝓮 𝓬𝓻𝓮𝓪𝓽𝓲𝓷𝓰 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓲𝓷𝓰 𝓽𝓱𝓲𝓷𝓰𝓼.<br>
     𝓣𝓱𝓮 𝓴𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓘 𝓱𝓪𝓿𝓮 𝓲𝓼 𝓷𝓸𝓽 𝓶𝓾𝓬𝓱, 𝓪𝓽 𝓵𝓮𝓪𝓼𝓽 𝓮𝓷𝓸𝓾𝓰𝓱 𝓽𝓸 𝓬𝓻𝓮𝓪𝓽𝓮 𝓪 𝓯𝓮𝔀 𝓽𝓱𝓲𝓷𝓰𝓼.<br>
@@ -95,24 +96,18 @@
 
 <br>
 <p align="center">
-  𝓨𝓸𝓾 𝓬𝓪𝓷 𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 𝓯𝓻𝓸𝓶 𝓽𝓱𝓲𝓼 𝓵𝓲𝓼𝓽𝓮𝓭 𝓪𝓬𝓬𝓸𝓾𝓷𝓽.<br>
-  𝓘𝓯 𝔂𝓸𝓾 𝔀𝓪𝓷𝓽 𝓱𝓲𝓻𝓮 𝓶𝓮 𝓯𝓸𝓻 𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽, 𝓹𝓵𝓮𝓪𝓼𝓮 𝓷𝓸𝓽𝓮 𝓽𝓱𝓪𝓽 𝓘'𝓶 𝓼𝓽𝓲𝓵𝓵 𝓷𝓮𝔀𝓫𝓲𝓮 𝓪𝓽 𝓬𝓸𝓭𝓲𝓷𝓰.<br>
-  𝓓𝓸 𝓷𝓸𝓽 𝓼𝓹𝓪𝓶 𝓪𝓷𝓭 𝓼𝓽𝓻𝓪𝓲𝓰𝓱𝓽 𝓽𝓸 𝓽𝓱𝓮 𝓹𝓸𝓲𝓷𝓽.
+  Hey! You can reach out to me through the account listed here.<br>
+  If you’re down to work on a project together, I’d love to hear about it — just keep it clear and straight to the point.<br>
+No spam, just good vibes and cool ideas. 
 </p>
 
 <div align="right">
-  <a href="https://t.me/Yoga_CIC">
+  <a href="https://t.me/Ibrahim17ii">
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/Telegram_logo.svg" alt="telegram" width="49" height="49"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zyxdevs">
-    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/linkedin.svg" alt="linkedin" width="51" height="51"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/659718688219332639">
+  <a href="https://discordapp.com/users/898325545664798740">
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="50.7" height="50.7" alt="discord"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:yoga@isekai.eu.org">
-    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/><br>
-  </a>
 </div>
 
 <br>
