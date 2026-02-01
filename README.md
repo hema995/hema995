@@ -27,8 +27,6 @@
   <li><b>Hobbys: Tech Stuff, Gaming</b></li>
   <br><br>
   <b>Follow me on:</b><br><br>
-  <a href="https://www.facebook.com/Hema.18i">
-    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/174848.svg" alt="facebook" width="20" height="20"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/hemi.18.i">
     <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/174855.svg" alt="instagram" width="20" height="20">
